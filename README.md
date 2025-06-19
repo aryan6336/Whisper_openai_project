@@ -15,13 +15,13 @@ This project allows you to **automatically download audio from a YouTube video**
 
 ## 📁 Project Structure
 whisper_openAI_project/
-│
-├── main.py # operate all function
-├── download_audio.py # Downloads YouTube video audio (MP3)
-├── transcribe.py # Transcribes the downloaded audio using Whisper
-├── translate_script.py # Translates script into selected language
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+-│
+-├── main.py # operate all function
+-├── download_audio.py # Downloads YouTube video audio (MP3)
+-├── transcribe.py # Transcribes the downloaded audio using Whisper
+-├── translate_script.py # Translates script into selected language
+-├── requirements.txt # Project dependencies
+-└── README.md # Project documentation
 
 ---
 
