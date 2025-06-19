@@ -1,0 +1,4 @@
+ffmpeg
+openai-whisper
+deep-translator
+yt-dlp
