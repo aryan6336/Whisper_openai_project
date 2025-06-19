@@ -14,7 +14,8 @@ This project allows you to **automatically download audio from a YouTube video**
 ---
 
 ## 📁 Project Structure
-whisper_openAI_project/
+
+- whisper_openAI_project/
 -│
 -├── main.py # operate all function
 -├── download_audio.py # Downloads YouTube video audio (MP3)
